@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/UsingAPI-React/static/css/main.cb83b770.css",
+    "main.js": "/UsingAPI-React/static/js/main.701d16c8.js",
+    "static/media/background.jpg": "/UsingAPI-React/static/media/background.30e63ad3954c1cb67967.jpg",
+    "index.html": "/UsingAPI-React/index.html",
+    "main.cb83b770.css.map": "/UsingAPI-React/static/css/main.cb83b770.css.map",
+    "main.701d16c8.js.map": "/UsingAPI-React/static/js/main.701d16c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb83b770.css",
+    "static/js/main.701d16c8.js"
+  ]
+}
